@@ -1,0 +1,15 @@
+C:\Users\akshata\source\repos\LinqPrograms\bin\Debug\net6.0\LinqPrograms.exe
+C:\Users\akshata\source\repos\LinqPrograms\bin\Debug\net6.0\LinqPrograms.deps.json
+C:\Users\akshata\source\repos\LinqPrograms\bin\Debug\net6.0\LinqPrograms.runtimeconfig.json
+C:\Users\akshata\source\repos\LinqPrograms\bin\Debug\net6.0\LinqPrograms.dll
+C:\Users\akshata\source\repos\LinqPrograms\bin\Debug\net6.0\LinqPrograms.pdb
+C:\Users\akshata\source\repos\LinqPrograms\obj\Debug\net6.0\LinqPrograms.csproj.AssemblyReference.cache
+C:\Users\akshata\source\repos\LinqPrograms\obj\Debug\net6.0\LinqPrograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akshata\source\repos\LinqPrograms\obj\Debug\net6.0\LinqPrograms.AssemblyInfoInputs.cache
+C:\Users\akshata\source\repos\LinqPrograms\obj\Debug\net6.0\LinqPrograms.AssemblyInfo.cs
+C:\Users\akshata\source\repos\LinqPrograms\obj\Debug\net6.0\LinqPrograms.csproj.CoreCompileInputs.cache
+C:\Users\akshata\source\repos\LinqPrograms\obj\Debug\net6.0\LinqPrograms.dll
+C:\Users\akshata\source\repos\LinqPrograms\obj\Debug\net6.0\refint\LinqPrograms.dll
+C:\Users\akshata\source\repos\LinqPrograms\obj\Debug\net6.0\LinqPrograms.pdb
+C:\Users\akshata\source\repos\LinqPrograms\obj\Debug\net6.0\LinqPrograms.genruntimeconfig.cache
+C:\Users\akshata\source\repos\LinqPrograms\obj\Debug\net6.0\ref\LinqPrograms.dll
